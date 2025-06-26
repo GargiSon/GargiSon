@@ -9,7 +9,7 @@ What I Create:<br/>
 -Problem-solving algorithms<br/>
 
 # About Me:
-🛠️ I’m currently working on:  <br>- Building scalable projects.   <br><br>I’m looking to collaborate on:<br>- Web development projects using HTML, CSS, Golang, Python, MongoDB, Sqlite <br>- Machine learning applications using Python and libraries like Pandas and NumPy.  <br><br>I’m looking for help with:  <br>- Improving my backend skills.  <br>- Machine Learning model optimization.  <br><br>I’m currently Practicing:<br>- Competitive programming, Machine learning, and data science concepts.<br><br>Ask me about:  <br>- Web development, UI/UX design, and ML projects.  <br><br>Fun fact: <br>- I enjoy solving algorithm problems and exploring new tech frameworks.  
+🛠️ I’m currently working on:  <br>- Building scalable projects.   <br><br>I’m looking to collaborate on:<br>- Web development projects using HTML, CSS, Golang, Python, MongoDB, Sqlite. <br>- Machine learning applications using Python and libraries like Pandas, NumPy, Matplotlib.  <br><br>I’m looking for help with:  <br>- Improving my backend skills.  <br>- Machine Learning model optimization.  <br><br>I’m currently Practicing:<br>- Competitive programming, Machine learning, and data science concepts.<br><br>Ask me about:  <br>- Web development, UI/UX design, and ML projects.  <br><br>Fun fact: <br>- I enjoy solving algorithm problems and exploring new tech frameworks.  
 
 
 ## Socials:
